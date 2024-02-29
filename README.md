@@ -20,9 +20,9 @@ To play Monkey Jump, follow these steps:
 
 1. Clone the repository or download the source code.
 2. Ensure that you have a C++ compiler compatible with C++11 or later installed on your system.
-3. Install SFML library (version 2.5.1 or later) and Box2D physics library (version 2.4.1 or later) if you haven't already. You can download them from their respective websites and follow the installation instructions for your operating system.
+3. Install SFML library (version 2.5.1 or later) if you haven't already. You can download them from the respective websites and follow the installation instructions for your operating system.
 4. Open the project in your preferred C++ development environment.
-5. Build the project using the C++ compiler, linking against the SFML and Box2D libraries.
+5. Build the project using the C++ compiler, linking against the SFML.
 6. Run the executable file generated after compilation.
 
 ## How to Play
